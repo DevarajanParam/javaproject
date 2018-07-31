@@ -9,6 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World  Test Test!" );
+	System.out.println( "Hello NEW World  NEW Test Test!" );
     }
 
 	public int calculateSomething() {
